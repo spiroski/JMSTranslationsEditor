@@ -1,0 +1,6 @@
+{
+    "HOME": "/",
+    "EDITOR": "/editor/:domainId?/:locale?",
+    "DOMAIN": "/editor/:domainId",
+    "EDIT": "/editor/:domainId/:locale"
+}
